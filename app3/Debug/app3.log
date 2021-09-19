@@ -1,0 +1,3 @@
+﻿  app3.cpp
+d:\msvc\stash\app3\app3\app3.cpp(20): warning C4018: <: несоответствие типов со знаком и без знака
+  app3.vcxproj -> D:\msvc\stash\app3\Debug\app3.exe
